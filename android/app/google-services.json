@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259340434651",
+    "project_id": "burger-delivery-app-1313",
+    "storage_bucket": "burger-delivery-app-1313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259340434651:android:2396ab4e1e7b54eaf0e0fe",
+        "android_client_info": {
+          "package_name": "com.vram.burger_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259340434651-tf11d19b3iumq9u7jdc5n8f63q049phn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWnNRtus26pFdIs8raXlhforieSBf4Y0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259340434651-tf11d19b3iumq9u7jdc5n8f63q049phn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
